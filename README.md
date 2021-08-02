@@ -1,4 +1,4 @@
-# Hands-On Quantum Machine Learning With Python
+# Hands-On Quantum Machine Learning With Python - update
 
 
 
